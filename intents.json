@@ -8,13 +8,16 @@
           "How are you",
           "Is anyone there?",
           "Hello",
-          "Good day"
+          "Good day",
+          "Namaste"
         ],
         "responses": [
           "Hey :-)",
           "Hello, thanks for visiting",
           "Hi there, what can I do for you?",
-          "Hi there, how can I help?"
+          "Hi there, how can I help?",
+          "Namaste"
+
         ]
       },
       {
@@ -43,29 +46,20 @@
           "We have coffee and tea"
         ]
       },
+    
       {
-        "tag": "payments",
+        "tag": "rough word",
         "patterns": [
-          "Do you take credit cards?",
-          "Do you accept Mastercard?",
-          "Can I pay with Paypal?",
-          "Are you cash only?"
+          "fuck",
+          "fuck you",
+          "What the fuck",
+          "What the fuck is wrong with you",
+          "fucker"
         ],
         "responses": [
-          "We accept VISA, Mastercard and Paypal",
-          "We accept most major credit cards, and Paypal"
-        ]
-      },
-      {
-        "tag": "delivery",
-        "patterns": [
-          "How long does delivery take?",
-          "How long does shipping take?",
-          "When do I get my delivery?"
-        ],
-        "responses": [
-          "Delivery takes 2-4 days",
-          "Shipping takes 2-4 days"
+          "Sorry, I'm not that kind of person",
+          "Sorry, I dont't like that kind of language",
+          "Sorry, I cant fuck"
         ]
       },
       {
@@ -73,11 +67,14 @@
         "patterns": [
           "Tell me a joke!",
           "Tell me something funny!",
-          "Do you know a joke?"
+          "Do you know a joke?",
+          "joke"
         ],
         "responses": [
           "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-          "What did the buffalo say when his son left for college? Bison."
+          "What did the buffalo say when his son left for college? Bison.",
+          "My doctor told me that jogging could add years to my life. He was right, I feel ten years older already."
+          
         ]
       }
     ]
